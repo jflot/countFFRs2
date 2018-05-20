@@ -1,5 +1,5 @@
 #!/usr/bin/perl --
-#Copyright (c) 2015, JF Flot <jflot@gwdg.de>
+#Copyright (c) 2015-2018, JF Flot <jflot@ulb.ac.be>
 #
 #Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is
 #hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
